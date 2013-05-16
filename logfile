@@ -1,0 +1,230 @@
+[13/May/2013 08:11:20] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:11:28] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:23:19] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:23:25] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:23:27] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:23:57] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:24:09] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:24:39] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:26:00] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:26:01] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:26:16] DEBUG [grocerylist.backends:11] doritoodso
+[13/May/2013 08:31:27] DEBUG [grocerylist.backends:8] doritoodso
+[13/May/2013 08:31:27] DEBUG [grocerylist.backends:8] doritoodso
+[13/May/2013 08:31:32] DEBUG [grocerylist.backends:8] doritoodso
+[13/May/2013 08:31:33] DEBUG [grocerylist.backends:8] doritoodso
+[13/May/2013 09:24:38] DEBUG [grocerylist.backends:8] doritoodso
+[13/May/2013 10:06:23] DEBUG [grocerylist.backends:10] set([])
+[13/May/2013 10:06:57] DEBUG [grocerylist.backends:10] set([])
+[13/May/2013 10:07:26] DEBUG [grocerylist.backends:10] set([])
+[13/May/2013 10:07:47] DEBUG [grocerylist.backends:10] set([])
+[13/May/2013 19:47:20] DEBUG [grocerylist.backends:10] set([])
+[13/May/2013 20:07:54] DEBUG [grocerylist.views:18] askldfjasdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:00] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:03] DEBUG [grocerylist.views:18] askldfjasdf
+[13/May/2013 20:09:03] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:04] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:04] DEBUG [grocerylist.views:18] askldfjasdf
+[13/May/2013 20:09:04] DEBUG [grocerylist.backends:8] asdfdf
+[13/May/2013 20:09:05] DEBUG [grocerylist.backends:11] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:09:45] DEBUG [grocerylist.views:18] askldfjasdf
+[13/May/2013 20:09:45] DEBUG [grocerylist.backends:8] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:10:00] DEBUG [grocerylist.views:18] askldfjasdf
+[13/May/2013 20:10:00] DEBUG [grocerylist.backends:8] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:10:30] DEBUG [grocerylist.backends:8] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:11:35] DEBUG [grocerylist.backends:8] <grocerylist.backends.PerObjectBackend object at 0x10fe49cd0>
+[13/May/2013 20:36:24] DEBUG [grocerylist.backends:8] jess
+[13/May/2013 20:36:24] DEBUG [grocerylist.backends:9] kjashfdkjhl
+[13/May/2013 20:38:29] DEBUG [grocerylist.backends:8] grocerylist.change_own_glist
+[13/May/2013 20:39:05] DEBUG [grocerylist.backends:8] set([])
+[13/May/2013 20:39:29] DEBUG [grocerylist.backends:8] set([u'grocerylist.add_aisle', u'grocerylist.add_item', u'grocerylist.add_product', u'grocerylist.change_own_glist', u'grocerylist.add_store', u'grocerylist.change_item', u'grocerylist.change_store', u'grocerylist.change_own_product', u'grocerylist.add_glist', u'grocerylist.change_own_aisle'])
+[13/May/2013 20:43:34] DEBUG [grocerylist.backends:8] set([])
+[13/May/2013 20:45:02] DEBUG [grocerylist.backends:8] set([])
+[13/May/2013 21:59:59] DEBUG [grocerylist.views:15] dasfd
+[13/May/2013 22:00:14] DEBUG [grocerylist.views:15] <WSGIRequest
+path:/,
+GET:<QueryDict: {}>,
+POST:<QueryDict: {}>,
+COOKIES:{'csrftoken': 'pkQkpv9o82Dww8EXLuVRwl7Qj1IE9EIF',
+ 'sessionid': 'irddrhdhi959szh4wd7sb7cvf0ooksib'},
+META:{'Apple_PubSub_Socket_Render': '/tmp/launch-fw8mbB/Render',
+ 'Apple_Ubiquity_Message': '/tmp/launch-znLgUj/Apple_Ubiquity_Message',
+ 'CLICOLOR': '1',
+ 'COMMAND_MODE': 'unix2003',
+ 'CONTENT_LENGTH': '',
+ 'CONTENT_TYPE': 'text/plain',
+ u'CSRF_COOKIE': u'pkQkpv9o82Dww8EXLuVRwl7Qj1IE9EIF',
+ 'DISPLAY': '/tmp/launch-IQyPUR/org.macosforge.xquartz:0',
+ 'DJANGO_SETTINGS_MODULE': 'groceboom.settings',
+ 'GATEWAY_INTERFACE': 'CGI/1.1',
+ 'GEM_HOME': '/Users/peter/.rvm/gems/ruby-1.9.2-p320',
+ 'GEM_PATH': '/Users/peter/.rvm/gems/ruby-1.9.2-p320:/Users/peter/.rvm/gems/ruby-1.9.2-p320@global',
+ 'HISTSIZE': '100000',
+ 'HOME': '/Users/peter',
+ 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+ 'HTTP_ACCEPT_CHARSET': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+ 'HTTP_ACCEPT_ENCODING': 'gzip,deflate,sdch',
+ 'HTTP_ACCEPT_LANGUAGE': 'en-US,en;q=0.8',
+ 'HTTP_CACHE_CONTROL': 'max-age=0',
+ 'HTTP_CONNECTION': 'keep-alive',
+ 'HTTP_COOKIE': 'sessionid=irddrhdhi959szh4wd7sb7cvf0ooksib; csrftoken=pkQkpv9o82Dww8EXLuVRwl7Qj1IE9EIF',
+ 'HTTP_HOST': 'localhost:8000',
+ 'HTTP_USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31',
+ 'IRBRC': '/Users/peter/.rvm/rubies/ruby-1.9.2-p320/.irbrc',
+ 'LANG': 'en_US.UTF-8',
+ 'LOGNAME': 'peter',
+ 'LSCOLORS': 'ExFxCxDxBxegedabagacad',
+ 'MY_RUBY_HOME': '/Users/peter/.rvm/rubies/ruby-1.9.2-p320',
+ 'OLDPWD': '/Users/peter/Sites/nefa',
+ 'PATH': '/Users/peter/.rvm/gems/ruby-1.9.2-p320/bin:/Users/peter/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/peter/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/peter/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/peter/bin',
+ 'PATH_INFO': u'/',
+ 'PWD': '/Users/peter/Sites/groceboom',
+ 'QUERY_STRING': '',
+ 'REMOTE_ADDR': '127.0.0.1',
+ 'REMOTE_HOST': '',
+ 'REQUEST_METHOD': 'GET',
+ 'RUBY_VERSION': 'ruby-1.9.2-p320',
+ 'RUN_MAIN': 'true',
+ 'SCRIPT_NAME': u'',
+ 'SECURITYSESSIONID': '186a5',
+ 'SERVER_NAME': '1.0.0.127.in-addr.arpa',
+ 'SERVER_PORT': '8000',
+ 'SERVER_PROTOCOL': 'HTTP/1.1',
+ 'SERVER_SOFTWARE': 'WSGIServer/0.1 Python/2.7.2',
+ 'SHELL': '/bin/bash',
+ 'SHLVL': '1',
+ 'SSH_AUTH_SOCK': '/tmp/launch-Od3DWJ/Listeners',
+ 'TERM': 'xterm-256color',
+ 'TERM_PROGRAM': 'Apple_Terminal',
+ 'TERM_PROGRAM_VERSION': '309',
+ 'TERM_SESSION_ID': '8B15EF29-1B77-44D9-8DF7-E844586D5800',
+ 'TMPDIR': '/var/folders/6_/6vx_3rz50gxfw9rgw7nkcmyc0000gn/T/',
+ 'TZ': 'America/Chicago',
+ 'USER': 'peter',
+ 'VERSIONER_PYTHON_PREFER_32_BIT': 'no',
+ 'VERSIONER_PYTHON_VERSION': '2.7',
+ '_': '/usr/bin/python',
+ '__CF_USER_TEXT_ENCODING': '0x1F5:0:0',
+ '__array_start': '0',
+ '_first': '0',
+ '_second': '1',
+ 'escape_flag': '1',
+ 'rvm_bin_path': '/Users/peter/.rvm/bin',
+ 'rvm_debug_clr': '\x1b[35m',
+ 'rvm_error_clr': '\x1b[31m',
+ 'rvm_notify_clr': '\x1b[32m',
+ 'rvm_path': '/Users/peter/.rvm',
+ 'rvm_prefix': '/Users/peter',
+ 'rvm_reset_clr': '\x1b(B\x1b[m',
+ 'rvm_version': '1.18.13 (stable)',
+ 'rvm_warn_clr': '\x1b[33m',
+ 'wsgi.errors': <open file '<stderr>', mode 'w' at 0x10b956270>,
+ 'wsgi.file_wrapper': <class wsgiref.util.FileWrapper at 0x10bf69bb0>,
+ 'wsgi.input': <socket._fileobject object at 0x10c612550>,
+ 'wsgi.multiprocess': False,
+ 'wsgi.multithread': True,
+ 'wsgi.run_once': False,
+ 'wsgi.url_scheme': 'http',
+ 'wsgi.version': (1, 0)}>
+[13/May/2013 22:05:39] DEBUG [grocerylist.views:15] None
+[13/May/2013 22:06:54] DEBUG [grocerylist.views:15] None
+[13/May/2013 22:07:06] DEBUG [grocerylist.views:15] None
+[13/May/2013 22:07:25] DEBUG [grocerylist.views:15] 1
+[13/May/2013 22:07:43] DEBUG [grocerylist.views:15] 2
+[13/May/2013 22:08:50] DEBUG [grocerylist.views:15] 2
+[13/May/2013 22:17:06] DEBUG [grocerylist.views:15] 2
+[13/May/2013 22:37:21] DEBUG [grocerylist.views:109] heloooooo
+[13/May/2013 22:38:32] DEBUG [grocerylist.views:109] heloooooo
+[13/May/2013 23:04:47] DEBUG [grocerylist.views:29] sadfskdfasdf
+[14/May/2013 09:06:22] DEBUG [grocerylist.views:25] <QueryDict: {u'username': [u'asdfasdf'], u'csrfmiddlewaretoken': [u's9iCTfWoUevhVvuHba33YvrniA0wLUbI'], u'password': [u'asdfasdf']}>
+[14/May/2013 21:43:20] DEBUG [grocerylist.views:26] <QueryDict: {u'username': [u'peter'], u'csrfmiddlewaretoken': [u's9iCTfWoUevhVvuHba33YvrniA0wLUbI'], u'password': [u'77coyotes']}>
+[14/May/2013 21:43:30] DEBUG [grocerylist.views:26] <QueryDict: {u'username': [u'jess'], u'csrfmiddlewaretoken': [u's9iCTfWoUevhVvuHba33YvrniA0wLUbI'], u'password': [u'superhot']}>
+[14/May/2013 21:50:04] DEBUG [grocerylist.views:26] <QueryDict: {u'username': [u'peter'], u'csrfmiddlewaretoken': [u's9iCTfWoUevhVvuHba33YvrniA0wLUbI'], u'password': [u'77coyotes']}>
+[14/May/2013 21:53:10] DEBUG [grocerylist.views:28] <QueryDict: {u'username': [u'peter'], u'csrfmiddlewaretoken': [u's9iCTfWoUevhVvuHba33YvrniA0wLUbI'], u'password': [u'77coyotes']}>
+[14/May/2013 21:54:20] DEBUG [grocerylist.views:30] <QueryDict: {u'username': [u'peter'], u'csrfmiddlewaretoken': [u's9iCTfWoUevhVvuHba33YvrniA0wLUbI'], u'password': [u'77coyotes']}>
+[14/May/2013 21:55:13] DEBUG [grocerylist.views:29] peter
+[14/May/2013 21:58:34] DEBUG [grocerylist.views:28] peter
+[14/May/2013 21:59:56] DEBUG [grocerylist.views:29] None
+[14/May/2013 22:01:26] DEBUG [grocerylist.views:30] peter
+[14/May/2013 22:03:43] DEBUG [grocerylist.views:30] None
+[14/May/2013 22:08:18] DEBUG [grocerylist.views:30] peter
+[14/May/2013 22:10:53] DEBUG [grocerylist.views:30] jess
+[14/May/2013 22:11:31] DEBUG [grocerylist.views:30] jess
+[15/May/2013 20:37:13] DEBUG [grocerylist.views:31] jess
+[15/May/2013 23:22:56] DEBUG [grocerylist.views:64] aisle_product_8value: 
+[15/May/2013 23:22:56] DEBUG [grocerylist.views:75] 4
+[15/May/2013 23:22:56] DEBUG [grocerylist.views:64] aisle_product_7value: 
+[15/May/2013 23:22:56] DEBUG [grocerylist.views:75] bulk4
+[15/May/2013 23:23:07] DEBUG [grocerylist.views:64] aisle_product_9value: 
+[15/May/2013 23:27:34] DEBUG [grocerylist.views:64] aisle_product_8value: 
+[15/May/2013 23:27:34] DEBUG [grocerylist.views:64] aisle_product_9value: 
+[15/May/2013 23:27:34] DEBUG [grocerylist.views:64] aisle_product_6value: 
+[15/May/2013 23:27:37] DEBUG [grocerylist.views:64] aisle_product_8value: 
+[15/May/2013 23:27:37] DEBUG [grocerylist.views:64] aisle_product_9value: 
+[15/May/2013 23:27:37] DEBUG [grocerylist.views:64] aisle_product_6value: 
+[15/May/2013 23:27:41] DEBUG [grocerylist.views:64] aisle_product_8value: 
+[15/May/2013 23:27:41] DEBUG [grocerylist.views:64] aisle_product_9value: 
+[15/May/2013 23:27:41] DEBUG [grocerylist.views:64] aisle_product_6value: 
+[15/May/2013 23:27:42] DEBUG [grocerylist.views:64] aisle_product_8value: 
+[15/May/2013 23:27:42] DEBUG [grocerylist.views:64] aisle_product_9value: 
+[15/May/2013 23:27:42] DEBUG [grocerylist.views:64] aisle_product_6value: 
+[15/May/2013 23:28:11] DEBUG [grocerylist.views:64] aisle_product_9value: 11
+[15/May/2013 23:28:11] DEBUG [grocerylist.views:64] aisle_product_6value: 
+[15/May/2013 23:53:08] DEBUG [grocerylist.views:64] aisle_product_6value: 12
+[15/May/2013 23:54:20] DEBUG [grocerylist.views:64] aisle_product_11value: 12
+[16/May/2013 12:18:36] DEBUG [grocerylist.views:64] aisle_product_1value: 
+[16/May/2013 12:19:44] DEBUG [grocerylist.views:64] aisle_product_3value: 3
+[16/May/2013 12:19:58] DEBUG [grocerylist.views:64] aisle_product_2value: 3
+[16/May/2013 12:20:33] DEBUG [grocerylist.views:64] aisle_product_4value: 
+[16/May/2013 12:45:09] DEBUG [grocerylist.views:53] {1L: <Item: sauce>}
+[16/May/2013 12:45:09] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>}
+[16/May/2013 12:45:09] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: coffee>}
+[16/May/2013 12:45:09] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: rice>}
+[16/May/2013 12:45:09] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: beans>}
+[16/May/2013 12:46:32] DEBUG [grocerylist.views:53] {1L: <Item: sauce>}
+[16/May/2013 12:46:32] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>}
+[16/May/2013 12:46:32] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: coffee>}
+[16/May/2013 12:46:32] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: rice>}
+[16/May/2013 12:46:32] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: beans>}
+[16/May/2013 12:46:40] DEBUG [grocerylist.views:53] {1L: <Item: sauce>}
+[16/May/2013 12:46:40] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>}
+[16/May/2013 12:46:40] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: coffee>}
+[16/May/2013 12:46:40] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: rice>}
+[16/May/2013 12:46:40] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: beans>}
+[16/May/2013 12:46:50] DEBUG [grocerylist.views:53] {1L: <Item: sauce>}
+[16/May/2013 12:46:50] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>}
+[16/May/2013 12:46:50] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: coffee>}
+[16/May/2013 12:46:50] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: rice>}
+[16/May/2013 12:46:50] DEBUG [grocerylist.views:53] {1L: <Item: sauce>, 2L: <Item: bread>, 3L: <Item: beans>}
+[16/May/2013 13:47:53] DEBUG [grocerylist.views:60] {1L: {'aisle': <Aisle: bread @ coop>, 'items': [<Item: bread>]}, 2L: {'aisle': <Aisle: bulk @ coop>, 'items': [<Item: coffee>, <Item: rice>, <Item: beans>]}, 3L: {'aisle': <Aisle: baking @ coop>, 'items': [<Item: sugar>]}, 4L: {'aisle': <Aisle: intl @ coop>, 'items': [<Item: sauce>, <Item: milk>]}}
+[16/May/2013 13:48:37] DEBUG [grocerylist.views:60] {1L: {'aisle': <Aisle: bread @ coop>, 'items': [<Item: bread>]}, 2L: {'aisle': <Aisle: bulk @ coop>, 'items': [<Item: coffee>, <Item: rice>, <Item: beans>]}, 3L: {'aisle': <Aisle: baking @ coop>, 'items': [<Item: sugar>]}, 4L: {'aisle': <Aisle: intl @ coop>, 'items': [<Item: sauce>]}, 5L: {'aisle': <Aisle: dairy @ coop>, 'items': [<Item: milk>]}}
+[16/May/2013 13:48:49] DEBUG [grocerylist.views:60] {1L: {'aisle': <Aisle: bread @ coop>, 'items': [<Item: bread>]}, 2L: {'aisle': <Aisle: bulk @ coop>, 'items': [<Item: coffee>, <Item: rice>, <Item: beans>]}, 3L: {'aisle': <Aisle: baking @ coop>, 'items': [<Item: sugar>]}, 4L: {'aisle': <Aisle: intl @ coop>, 'items': [<Item: sauce>]}, 5L: {'aisle': <Aisle: dairy @ coop>, 'items': [<Item: milk>]}, 6L: {'aisle': <Aisle: which @ coop>, 'items': [<Item: another>]}}

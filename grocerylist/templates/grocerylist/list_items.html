@@ -1,0 +1,17 @@
+
+{% for k,data in store_items.items %}
+	<div id="aisle-{{ data.aisle.id }}" class="aisle-wrap" data-aisleid="{{ data.aisle.id }}">
+		<div class="aisle-head">{{ data.aisle.name }}</div>
+	{% for item in data.items %}
+			<div class="item-wrap {% if item.got_it %} got-it {% endif %}" id="item-wrap-{{ item.id }}" data-itemid="{{ item.id}}">
+				<div class="item-check-wrap">
+					<input type="checkbox" name="item-check-{{ item.id }}" id="item-check-{{ item.id }}" data-itemid="{{ item.id }}" class="item-check"
+					{% if item.got_it %}
+						checked="checked"
+					{% endif %} />
+				</div>
+				<div id="item-{{ item.id }}" class="item" >{{ item.product.name }}</div>
+			</div>
+	{% endfor %} 
+	</div>
+{% endfor %} 

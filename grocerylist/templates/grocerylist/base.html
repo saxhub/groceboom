@@ -1,0 +1,17 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="{% static 'grocerylist/css/style.css' %}" />
+	<link rel="stylesheet" href="{% static 'grocerylist/css/smoothness/jquery-ui.custom.min.css' %}" />
+	<script src="{% static 'grocerylist/js/jquery.js' %}"></script>
+	<script src="{% static 'grocerylist/js/jquery.cookie.js' %}"></script>
+    <script src="{% static 'grocerylist/js/jquery-ui.custom.min.js' %}"></script>
+	<script src="{% static 'grocerylist/js/script.js' %}"></script>
+    <title>{% block title %} GroceBoom.  {% endblock %}</title>
+</head>
+<body>
+	<h1>G R O C E B O O M !</h1>
+	{% block content %}Period.{% endblock %}
+</body>
+</html>

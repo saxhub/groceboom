@@ -1,0 +1,99 @@
+{% extends 'grocerylist/base.html' %}
+{% block content %}
+<a href="{% url 'index' %}">&laquo; Back to my lists</a>
+<h2>{{ glist.name }}</h2>
+<div class="tip">Shopping at {{ glist.store.name }}</div>
+<form action="{% url 'save_list' glist.id %}" method="post" id="glist-form" >
+{% csrf_token %}
+<input type="hidden" name="aisle_maxsort" value="{{ aisle_maxsort }}" />
+<input type="hidden" name="store_id" value="{{ glist.store_id }}" id="store-id" />
+<input type="hidden" name="glist_id" value="{{ glist.id }}" id="glist-id" />
+<div id="in-store">
+{% include 'grocerylist/list_items.html' %} 
+</div>
+<div id="not-in-store">
+	
+	{% for item in notinstore_items %}
+	{% if forloop.first %}<h4>These products have no aisle assigned in this store</h4>{% endif %}
+	<div class="not-in-store-item">
+		<div id="item-{{ item.id }}">{{ item.product.name }}</div>
+		<div class="select-or-add choose">
+			<div class="aisle-select select">
+				
+				<select name="aisle_product_{{ item.product_id }}">
+					<option value="">
+						{% if aisles %}-- Select Aisle --
+						{% else %}-- No Aisles to Select --{% endif %}</option>
+					{% for aisle in aisles %}
+						<option value="{{ aisle.id }}">{{ aisle.name }}</option>
+					{% endfor %}
+				</select>
+				
+			</div>
+			<div class="new-aisle new">
+				<input name="product_aisle_name_{{ item.product_id }}" type="text" class="new-aisle-name" placeholder="aisle name" />
+			</div>
+
+		</div>
+		<div class="new-aisle-check-wrap select-or-add check-wrap">
+			<input type="checkbox" name="product_needs_aisle_{{ item.product_id }}" id="product-needs-aisle-{{ item.product_id }}" class="product-needs-aisle-check check" {% if not aisles %}checked="checked" {% endif %}/><label>Add New</label>
+		</div>
+		
+	</div>
+	{% endfor %} 
+</div>
+<div id="add">
+	<div class="select-or-add choose">
+		<div id="select-product" class="select">
+			
+				<select name="product">
+					<option value="">
+						{% if product_options %}-- Select Product --
+						{% else %}-- No Products to Select --{% endif %}</option>
+					{% for p in product_options %}
+						<option value="{{ p.id }}">{{ p.name }}</option>
+					{% endfor %}
+				</select>
+		
+		</div>
+		<div id="new-product-name" class="new">
+			<div class="product-name-wrap">
+				<input type="text" name="new_product_name" placeholder="product name" />
+			</div>
+			<div class="select-or-add choose">
+				<div id="aisle-select" class="select">
+					
+					<select name="new_product_aisle">
+						<option value="">
+						{% if aisles %}-- Select Aisle --
+						{% else %}-- No Aisles to Select --{% endif %}</option>
+						{% for aisle in aisles %}
+							<option value="{{ aisle.id }}">{{ aisle.name }}</option>
+						{% endfor %}
+					</select>
+					
+				</div>
+				<div class="new-aisle new" id="new-aisle-name">
+					<input name="new_product_aisle_name" type="text" class="new-aisle-name" placeholder="aisle name" />
+				</div>
+			</div>
+			<div class="new-aisle-check-wrap select-or-add check-wrap">
+				<input type="checkbox" name="new_product_needs_aisle" id="new-aisle-check" class="check" {% if not aisles %}checked="checked" {% endif %}/><label>Add New</label>
+			</div>
+		</div>
+	</div>
+	<div class="select-or-add check-wrap">
+		<input type="checkbox" name="new_product" id="new-product-check" class="check" {% if not product_options %}checked="checked"{% endif %} /><label>Add New</label>
+	</div>
+</div>
+		
+	
+
+
+</div>
+<div id="submit-wrap">
+<input id="submit" type="submit" />
+</div></form>
+<div id="dialog"></div>
+
+{% endblock %}

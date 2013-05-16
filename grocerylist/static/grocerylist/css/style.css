@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  padding-left: 15%;
+  padding-right: 15%; }
+
+div {
+  margin-bottom: 10px; }
+
+.strike .item {
+  text-decoration: line-through; }
+
+.got-it {
+  display: none; }
+
+#new-product-entry, #new-aisle-name {
+  display: none; }
+
+.item-check-wrap, .item {
+  display: inline-block; }
+
+#not-in-store .new-aisle {
+  display: none; }
+
+.aisle-wrap {
+  border: 1px solid #eeeeee;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: move; }
+
+.select-or-add .new {
+  display: none; }
+
+.select-or-add {
+  display: inline-block;
+  vertical-align: top; }
+
+#not-in-store {
+  border-top: 1px dashed #999999;
+  border-bottom: 1px dashed #999999;
+  margin: 30px 0; }
+
+.tip {
+  font-style: italic;
+  color: #999999; }
+
+label {
+  font-size: 0.7em; }
+
+.loading {
+  font-style: italic;
+  color: #999999; }

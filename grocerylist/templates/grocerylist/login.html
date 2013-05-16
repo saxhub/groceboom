@@ -1,0 +1,11 @@
+{% extends 'grocerylist/base.html' %}
+{% block content %}
+
+
+<form action="{% url 'do-login' %}" method="post" id="login-form" >
+	{% csrf_token %}
+	<p><input type="text" name="username" placeholder="username" />
+	<p><input type="password" name="password" placeholder="password" />
+	<input type="submit" />
+</form>
+{% endblock %}

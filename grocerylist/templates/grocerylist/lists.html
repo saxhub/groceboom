@@ -1,0 +1,39 @@
+{% extends 'grocerylist/base.html' %}
+{% block content %}
+
+
+<ul id="lists">
+	{% for glist in glists %}
+		<li><a href="{% url 'list_detail' glist.id %}">{{ glist.name }}</a></li>
+	{% endfor %}
+</ul>
+<div id="new-list">
+	<form action="{% url 'add_list' %}" method="post">
+		{% csrf_token %}
+		<div id="list-name-wrap">
+			<input placeholder="new list name" type="text" name="new_list_name" />
+		</div>
+		<div class="store-choose select-or-add choose">
+			<div id="store-select" class="select">
+				
+				<select name="store">
+					<option value="">
+						{% if stores %}-- Select Store --
+						{% else %}-- No Stores to Select --{% endif %}</option>
+					{% for store in stores %}
+						<option value="{{ store.id }}">{{ store.name }}</option>
+					{% endfor %}
+				</select>
+			</div>
+			<div id="store-text" class="new">
+				<input placeholder="name of store" type="text" name="store_name" />
+			</div>
+		</div>
+		<div id="new-store-check-wrap" class="select-or-add check-wrap">
+			<input class="check" type="checkbox" {% if not stores %}checked="checked"{% endif %} /><label>Add New</label>
+		</div>
+		<div id="submit"><input type="submit" /></div>
+	</form>
+</div>
+
+{% endblock %}

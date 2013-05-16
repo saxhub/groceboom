@@ -1,0 +1,5 @@
+<ul id="aisle-sort">
+{% for aisle in aisles %}
+	<li id="aisle-{{ aisle.id }}" class="aisle">{{ aisle.name }}</li>
+{% endfor %}
+</ul>
